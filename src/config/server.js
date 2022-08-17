@@ -3,7 +3,7 @@ require("dotenv").config();
 
 module.exports = {
     local: {
-        host: "https://tamara-care-backend-dev.vercel.app",
+        host: "https://ec2-34-245-172-158.eu-west-1.compute.amazonaws.com",
         port: "3016",
     },
     dev: {
